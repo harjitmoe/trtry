@@ -1,0 +1,21 @@
+total 50
+   76 Feb 15  2012 bg.gif
+  594 Feb 18  2012 blue.gif
+  381 Feb 18  2012 cyan.gif
+  365 Feb 18  2012 dunce.gif
+  182 Feb 17  2012 fadeout_first.gif
+  160 Feb 17  2012 fadeout_last.gif
+  594 Feb 18  2012 green.gif
+  594 Feb 18  2012 magenta.gif
+   82 Feb 17  2012 mask.gif
+    0 Mar  2 11:35 mtimes.txt
+   76 Feb 15  2012 nomask.gif
+ 4096 Mar  2 11:35 Oldfiles
+ 1173 Mar  2 11:29 README.md
+  591 Feb 18  2012 red.gif
+16384 Dec 28  2015 Thumbs.db
+ 8404 Feb 20  2012 trtry.py
+  172 Feb 18  2012 undercoat.gif
+ 4096 Jan  3 11:54 Veryoldfiles
+  353 Feb 18  2012 wild.gif
+  600 Feb 18  2012 yellow.gif
