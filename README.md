@@ -1,5 +1,7 @@
 I actually wrote this basic [TriTryst](http://www.mischel.com/tritryst/) clone almost half a decade ago (mtime of trtry.py is 2012-02-20T21:45 and those of the most recent tiles are similar, e.g. wild.gif is 2012-02-18T14:04).  I am uploading this to GitHub without modification at long length in 2017.
 
+Note on interface: keyboard only.  Arrows to move, space to turn, enter to drop.
+
 The zlib/libpng License (Zlib)
 
 Copyright (c) Thomas Hori.
