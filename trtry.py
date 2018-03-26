@@ -22,8 +22,8 @@ bg="bg.gif"
 width=9
 height=9
 
-from Tkinter import *
-from Canvas import *  #Not availible on Python 3k: anyone willing to port this program to Tkinter.Canvas methods are welcome
+from tkinter import *
+from Canvas import *
 
 try:
 	from ImageTk import *
@@ -278,9 +278,9 @@ class Box(Frame):
 			midbox.seq=basebox.seq
 			basebox.seq=randtrio()
 		elif not self.highlight:
-			raise TypeError,"trying to drop a trio without an associated highlight area"
+			raise TypeError("trying to drop a trio without an associated highlight area")
 		else:
-			raise SystemError,"set to highlight but no current highlight"
+			raise SystemError("set to highlight but no current highlight")
 
 topbox=Box(rootc,randtrio())
 topbox.highlight=1
